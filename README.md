@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Deniz</h1>
+<h3 align="center">Computer Engineer • Full-Stack / Backend Focus • Always open to exciting opportunities</h3>
+
+<p align="center">
+  <a href="https://www.ilkaydeniz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ilkaydeniz.com-111?style=for-the-badge"></a>
+  <a href="mailto:dnzilkay1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dnzilkay1%40gmail.com-111?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/denizilkay"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denizilkay-111?style=for-the-badge"></a>
+</p>
+
+---
+
+## About
+- Building scalable web apps, APIs, and developer-friendly tools  
+- Interested in: system design, performance, clean architecture, and product engineering  
+- Portfolio: https://www.ilkaydeniz.com/  
+- Contact: **dnzilkay1@gmail.com**
+- LinkedIn : **https://linkedin.com/in/denizilkay**
+
+---
+
+## Stats
+
+<p align="center">
+  <a href="https://github.com/dnzilkay">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical&rank_icon=github" />
+  </a>
+  <a href="https://github.com/dnzilkay">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dnzilkay">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dnzilkay&theme=radical" />
+  </a>
+</p>
+
+
 
 <!--
-**dnzilkay/dnzilkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+- **Project Name** — kısa açıklama (tech stack)  
+  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Project Name** — kısa açıklama (tech stack)  
+  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
+
+- **Project Name** — kısa açıklama (tech stack)  
+  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
 -->
+
+
+## Skills
+
+### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42"/>
+</p>
+
+### Backend & AI
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42"/>
+</p>
+
+---
