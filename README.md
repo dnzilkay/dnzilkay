@@ -29,11 +29,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dnzilkay">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dnzilkay&theme=radical" />
-  </a>
-</p>
+
 
 
 
