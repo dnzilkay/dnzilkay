@@ -28,6 +28,13 @@
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360" />
   </a>
 </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=dnzilkay&theme=radical"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 
