@@ -11,7 +11,7 @@
 
 ## About
 - Full-Stack Developer building web apps, mobile apps, and AI-powered solutions
-- Tech: React, Next.js, Node.js, Flutter, Python, TensorFlow
+- Tech: React, Next.js, Node.js, Flutter, Python, 
 - Focus: Clean architecture, scalable systems, turning ideas into products
 - Vibe coder: Building faster with AI-assisted development
 - Currently working on: Personal project (side project)
