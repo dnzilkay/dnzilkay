@@ -19,22 +19,25 @@
 ---
 
 ## Stats
-
 <p align="center">
   <a href="https://github.com/dnzilkay">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical&rank_icon=github" />
+    <img height="180"
+         src="https://github-readme-stats-dnzilkay.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical&rank_icon=github" />
   </a>
   <a href="https://github.com/dnzilkay">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360" />
+    <img height="180"
+         src="https://github-readme-stats-dnzilkay.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360" />
   </a>
 </p>
+
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=dnzilkay&theme=radical"
+    src="https://github-readme-stats-dnzilkay.vercel.app/api/streak?username=dnzilkay&theme=radical"
     height="180"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 
