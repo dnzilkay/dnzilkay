@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Deniz</h1>
-<h3 align="center">Computer Engineer • Full-Stack / Backend Focus • Always open to exciting opportunities</h3>
+<h3 align="center">Full-Stack Developer | Web • Mobile • AI</h3>
 
 <p align="center">
   <a href="https://www.ilkaydeniz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ilkaydeniz.com-111?style=for-the-badge"></a>
@@ -10,11 +10,11 @@
 ---
 
 ## About
-- Building scalable web apps, APIs, and developer-friendly tools  
-- Interested in: system design, performance, clean architecture, and product engineering  
-- Portfolio: https://www.ilkaydeniz.com/  
-- Contact: **dnzilkay1@gmail.com**
-- LinkedIn : **https://linkedin.com/in/denizilkay**
+- Full-Stack Developer building web apps, mobile apps, and AI-powered solutions
+- Tech: React, Next.js, Node.js, Flutter, Python, TensorFlow
+- Focus: Clean architecture, scalable systems, turning ideas into products
+- Vibe coder: Building faster with AI-assisted development
+- Currently working on: Personal project (side project)
 
 ---
 
@@ -64,7 +64,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
 </p>
 
 ### Frontend
@@ -86,6 +85,7 @@
 ### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
 </p>
