@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/dnzilkay">
     <img height="180"
-         src="https://github-readme-stats-dnzilkay.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical&rank_icon=github" />
+         src="https://github-readme-stats-dnzilkay.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/dnzilkay">
     <img height="180"
