@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Deniz</h1>
 <h3 align="center">Full-Stack Developer | Web • Mobile • AI</h3>
-
+ 
 <p align="center">
   <a href="https://www.ilkaydeniz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ilkaydeniz.com-111?style=for-the-badge"></a>
   <a href="mailto:dnzilkay1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dnzilkay1%40gmail.com-111?style=for-the-badge"></a>
