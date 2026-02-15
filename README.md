@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Web • Mobile • AI</h3>
  
 <p align="center">
-  <a href="https://www.ilkaydeniz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ilkaydeniz.com-111?style=for-the-badge"></a>
+  <a href="https://www.dnzilkay.com/"><img alt="Website" src="https://img.shields.io/badge/Website-dnzilkay.com-111?style=for-the-badge"></a>
   <a href="mailto:dnzilkay1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dnzilkay1%40gmail.com-111?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/denizilkay"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denizilkay-111?style=for-the-badge"></a>
 </p>
