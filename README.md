@@ -23,11 +23,13 @@
   <a href="https://github.com/dnzilkay">
     <img height="180"
          src="https://github-readme-stats-dnzilkay.vercel.app/api?username=dnzilkay&show_icons=true&theme=radical" />
-  </a>
+ </a>
   <a href="https://github.com/dnzilkay">
     <img height="180"
-         src="https://github-readme-stats-dnzilkay.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360" />
+         src="https://github-readme-stats-dnzilkay.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360&cb=20260304b" />
   </a>
+
+
 </p>
 
 <p align="center">
