@@ -11,14 +11,14 @@
 
 ## About
 - Full-Stack Developer building web apps, mobile apps, and AI-powered solutions
-- Tech: React, Next.js, Node.js, Flutter, Python, 
+- Tech: TypeScript, React, Next.js, Node.js, Python, Flutter
 - Focus: Clean architecture, scalable systems, turning ideas into products
 - Vibe coder: Building faster with AI-assisted development
 - Currently working on: Personal project (side project)
 
 ---
 
-## Stats
+## 📊 Stats
 <p align="center">
   <a href="https://github.com/dnzilkay">
     <img height="180"
@@ -28,8 +28,6 @@
     <img height="180"
          src="https://github-readme-stats-dnzilkay.vercel.app/api/top-langs?username=dnzilkay&layout=compact&langs_count=8&theme=radical&card_width=360&cb=20260304b" />
   </a>
-
-
 </p>
 
 <p align="center">
@@ -39,11 +37,6 @@
     alt="GitHub Streak"
   />
 </p>
-
-
-
-
-
 
 <!--
 ## Featured Projects
@@ -58,47 +51,47 @@
   Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
 -->
 
+---
 
-## Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
-</p>
+<div align="center">
 
-### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42"/>
-</p>
+<table>
+  <tr>
+    <td align="right" width="180"><b>💻 &nbsp;Languages</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨 &nbsp;Frontend</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>📱 &nbsp;Mobile</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,swift&theme=dark" alt="Mobile" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ &nbsp;Backend</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 &nbsp;AI / Vision</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI / Computer Vision" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ &nbsp;Databases</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧰 &nbsp;Tools</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,vscode,postman&theme=dark" alt="Tools" /></a></td>
+  </tr>
+</table>
 
-### Backend & AI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42"/>
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42"/>
-</p>
+</div>
 
 ---
+
+<p align="center">
+  <i>📬 Staj, freelance ve uzun vadeli iş birlikleri için: <a href="mailto:dnzilkay1@gmail.com">dnzilkay1@gmail.com</a></i>
+</p>
