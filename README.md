@@ -1,5 +1,5 @@
 <h1 align="center">Deniz İlkay</h1>
-<h3 align="center">Full-Stack Developer · Web • Mobile • AI</h3>
+<h3 align="center">Computer Engineering Student · Web • Backend • Mobile • Applied AI</h3>
 
 <p align="center">
   <a href="https://www.dnzilkay.com/">
@@ -17,41 +17,34 @@
 
 ### About
 
-Computer Engineering undergraduate at Pamukkale University, building production-grade applications across web, mobile, and AI domains. Internship background in satellite systems and robotics.
+I am a Computer Engineering undergraduate at Pamukkale University, designing and
+building end-to-end product experiences across web, mobile, and applied AI. My
+industry experience includes mobile product development at Redline
+Satellite Systems and web interfaces with ROS integrations at NCT Robotics.
 
-- **Building:** Full-stack web & mobile applications, AI-powered solutions
-- **Focus:** Clean architecture, scalable systems, end-to-end product delivery
-- **Approach:** AI-assisted development for rapid, high-quality iteration
-- **Currently:** Personal projects exploring applied ML and computer vision
+- **Web:** Product-focused interfaces built with React, Next.js, and TypeScript
+- **Backend:** REST APIs, service layers, and relational data models with FastAPI, Node.js, and PostgreSQL
+- **Mobile:** Cross-platform Flutter applications and native SwiftUI experiences
+- **Applied engineering:** Computer vision and multi-agent systems
 
 ---
 
-<!--
-### Featured Projects
+### Selected Projects
 
-- **Project Name** — kısa açıklama (tech stack)  
-  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
-- **Project Name** — kısa açıklama (tech stack)  
-  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
-- **Project Name** — kısa açıklama (tech stack)  
-  Repo: https://github.com/dnzilkay/REPO_NAME • Demo: https://DEMO_LINK
--->
+| Project | Focus | Technologies | Links |
+|---|---|---|---|
+| **BebeRehber** | Multi-platform product ecosystem for baby-care tracking, digital journaling, family sharing, and community experiences | Next.js, FastAPI, PostgreSQL, Flutter, SwiftUI | [Product hub](https://beberehber.dnzilkay.com) · [Main repository](https://github.com/dnzilkay/BebeRehber) |
+| **Address Routing Intelligence** | Data-mining assignment developed with [Fırat Hıdır](https://github.com/firathdr), covering Turkish address normalization, geospatial clustering, and distance-weighted KNN with synthetic data | Python, KNN, hierarchical clustering, Next.js, Leaflet | [Live case study](https://address-routing.dnzilkay.com) · [Repository](https://github.com/dnzilkay/address-routing-intelligence) |
+| **SmartVisionAssist** | Accessibility-focused computer-vision prototype with object detection, approximate distance estimation, and voice alerts | Python, YOLOv8, OpenCV, text-to-speech | [Repository](https://github.com/dnzilkay/SmartVisionAssist) |
+| **NOVA Storefront** | Responsive e-commerce frontend case study featuring product discovery, search, favorites, product details, and cart flows using a synthetic catalog | React, TypeScript, Material UI, Vite | [Live storefront](https://alisverissitem.dnzilkay.com) · [Repository](https://github.com/dnzilkay/Alisveris-Sitem-Frontend) |
 
-### Tech Stack
+### Core Stack
 
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **AI / Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
+- **Web:** TypeScript, React, Next.js, Vite
+- **Backend:** Python, FastAPI, Node.js, PostgreSQL
+- **Mobile:** Flutter, SwiftUI
+- **Applied AI:** OpenCV, PyTorch
+- **Delivery:** Git, Docker, GitHub Actions, Vercel
 
 ---
 
@@ -69,6 +62,6 @@ Computer Engineering undergraduate at Pamukkale University, building production-
 ---
 
 <p align="center">
-  <i>Staj, freelance ve uzun vadeli iş birlikleri için iletişime açığım.</i><br>
+  <i>Open to internships, freelance projects, and long-term software collaborations.</i><br>
   <a href="mailto:dnzilkay1@gmail.com"><b>dnzilkay1@gmail.com</b></a>
 </p>
