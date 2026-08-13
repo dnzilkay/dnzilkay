@@ -36,7 +36,7 @@ Satellite Systems and web interfaces with ROS integrations at NCT Robotics.
 | **BebeRehber** | Multi-platform product ecosystem for baby-care tracking, digital journaling, family sharing, and community experiences | Next.js, FastAPI, PostgreSQL, Flutter, SwiftUI | [Product hub](https://beberehber.dnzilkay.com) · [Main repository](https://github.com/dnzilkay/BebeRehber) |
 | **Address Routing Intelligence** | Data-mining assignment developed with [Fırat YAVAŞ](https://github.com/firathdr), covering Turkish address normalization, geospatial clustering, and distance-weighted KNN with synthetic data | Python, KNN, hierarchical clustering, Next.js, Leaflet | [Live case study](https://address-routing.dnzilkay.com) · [Repository](https://github.com/dnzilkay/address-routing-intelligence) |
 | **SmartVisionAssist** | Accessibility-focused computer-vision prototype with object detection, approximate distance estimation, and voice alerts | Python, YOLOv8, OpenCV, text-to-speech | [Repository](https://github.com/dnzilkay/SmartVisionAssist) |
-| **NOVA Storefront** | Responsive e-commerce frontend case study featuring product discovery, search, favorites, product details, and cart flows using a synthetic catalog | React, TypeScript, Material UI, Vite | [Live storefront](https://alisverissitem.dnzilkay.com) · [Repository](https://github.com/dnzilkay/Alisveris-Sitem-Frontend) |
+| **Local CV Builder** | Open-source, local-first resume builder that keeps personal data on-device and produces true-text, ATS-readable PDFs with real-time pagination and offline support | Next.js, TypeScript, IndexedDB, PDF.js, pdf-lib, Playwright | [Live product](https://cvbuilder.dnzilkay.com) · [Repository](https://github.com/dnzilkay/local-cv-builder) |
 
 ### Core Stack
 
